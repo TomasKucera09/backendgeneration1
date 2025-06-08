@@ -12,7 +12,7 @@ app = Flask(__name__)
 db_config = {
     'host': 'sql4.webzdarma.cz',
     'user': 'collatzwzcz4682',
-    'password': '	V63AK*&G5,0b(3,eyd.2',
+    'password': 'V63AK*&G5,0b(3,eyd.2',
     'database': 'collatzwzcz4682'
 }
 
