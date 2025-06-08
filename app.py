@@ -9,10 +9,10 @@ app = Flask(__name__)
 
 # Nastavení připojení k MySQL
 db_config = {
-    'host': 'tvuj-host',
-    'user': 'uzivatel',
-    'password': 'heslo',
-    'database': 'nazev_databaze'
+    'host': 'sql4.webzdarma.cz',
+    'user': 'collatzwzcz4682',
+    'password': '	V63AK*&G5,0b(3,eyd.2',
+    'database': 'collatzwzcz4682'
 }
 
 @app.route('/export', methods=['GET'])
